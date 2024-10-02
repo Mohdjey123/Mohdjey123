@@ -4,7 +4,7 @@
 I'm a passionate developer currently diving into JavaScript and C++. I love creating projects and I'm always eager to learn new technologies.
 
 - 🌱 I’m currently learning **JavaScript** and **C++**.
-- 💻 You can check out my [resume here](https://mohdjey123.github.io/portfolio/).
+- 💻 You can check out my [resume here]().
 - 🔭 I’m also interested in expanding my skills in **web development** and **systems programming**.
 - 💬 Ask me about anything tech-related, I'm always open to new conversations!
 
