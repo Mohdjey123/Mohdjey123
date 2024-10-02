@@ -22,7 +22,7 @@ I'm a passionate developer currently diving into JavaScript and C++. I love crea
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Mohdjey123)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile) <!-- Replace "yourprofile" with your actual LinkedIn username -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mohamed-mohamed-605412305) 
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:your.email@example.com) <!-- Replace with your email -->
 
 ## 💡 Fun Fact
